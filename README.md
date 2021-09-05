@@ -25,7 +25,8 @@ In Order to do cross sale,up sale and Recommend some products to customers.Aim h
 - from mlxtend.frequent_patterns import association_rules
 
 # Implementation with real time data
-
+- Data link: https://github.com/Jyotiranjan404/Market-basket-analysis/blob/main/Online%20Retail.xlsx
+- Code implementation: https://github.com/Jyotiranjan404/Market-basket-analysis/blob/main/Implement%20Market%20Basket%20Analysis%20In%20Python%20(1).ipynb
 
 
 
